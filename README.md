@@ -1,6 +1,9 @@
 # KTP Validation Image
 KTP Validation Using OCR
 
+## Reference using Python
+[https://github.com/muhammadzakirramadhan/ktp-validation](https://github.com/muhammadzakirramadhan/ktp-validation)
+
 ## Installation
 
 * Clone the Repo
@@ -8,7 +11,6 @@ KTP Validation Using OCR
 ```bash
 npm install
 ```
-
 
 ## Usage
 
