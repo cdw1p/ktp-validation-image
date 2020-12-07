@@ -14,7 +14,8 @@
     "express-fileupload": "^1.2.0",
     "fs": "0.0.1-security",
     "morgan": "^1.10.0",
-    "sharp": "^0.26.3",
-    "tesseract.js": "^2.1.4"
+    "node-tesseract-ocr": "^2.0.0",
+    "path": "^0.12.7",
+    "sharp": "^0.26.3"
   }
 }
