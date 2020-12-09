@@ -4,6 +4,9 @@ KTP Validation Using OCR
 ## Reference using Python
 [https://github.com/muhammadzakirramadhan/ktp-validation](https://github.com/muhammadzakirramadhan/ktp-validation)
 
+## Preview
+![Preview.png](Preview.png)
+
 ## Installation
 
 * Clone the Repo
